@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "MySite",
-  "description": "mysite",
+  "title": "Liang",
+  "description": "Liang",
   "dest": "public",
   "head": [
     [
